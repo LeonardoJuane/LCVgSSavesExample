@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.15",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "LCVgsSerializedSaves",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/dbcdd27eebc345d8a68d63ba26cbd7b7"
+		}
+	]
+}
